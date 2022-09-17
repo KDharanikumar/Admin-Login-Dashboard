@@ -1,0 +1,25 @@
+.container-fluid {
+  background-color: #dc392d;
+  padding: 40px 100px 80px 100px;
+  text-align: -webkit-center;
+}
+
+.inner-box {
+  height: 900px;
+  width: 90%;
+  background-color: #fff;
+  padding: 20px 170px;
+  text-align: -webkit-center;
+  border-radius: 5px;
+}
+
+#button {
+  color: white;
+  font-size: smaller;
+  height: 40px;
+}
+
+span {
+  font-size: small;
+  font-weight: 500;
+}
